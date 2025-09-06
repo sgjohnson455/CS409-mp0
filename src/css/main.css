@@ -19,3 +19,16 @@ a {
     display: block;
     text-align: center;
 }
+
+.card {
+    width: 500px;
+    background-color: rgb(255, 153, 0);
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
